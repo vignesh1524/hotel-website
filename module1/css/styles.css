@@ -95,7 +95,7 @@ a.active,a:hover{
   }
 }
 section{
-  background:url(p4.jpg) no-repeat;
+  background:url(https://github.com/vignesh1524/hotel-website/blob/master/module1/images/p4.jpg) no-repeat;
   background-size: cover;
   height: calc(100vh - 80px);
 }
